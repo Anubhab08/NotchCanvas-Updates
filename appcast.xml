@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NotchCanvas</title>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>Mon, 23 Nov 2026 00:31:09 +0530</pubDate>
+            <sparkle:version>108</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Automatic updates are now available in the website version of NotchCanvas.
+
+• Check for updates in Settings → General → Software Update.
+• Automatic checks run daily. You choose when to install and restart.
+• Update downloads and the update feed are cryptographically signed.
+• Includes the latest notch layout, Settings, Reminders/Music Player switching,
+  multi-display and About-screen fixes.
+
+If you installed an older DMG without an updater, replace it once with this
+version. Your existing preferences and reminders remain in place.
+]]></description>
+            <enclosure url="https://github.com/Anubhab08/NotchCanvas-Updates/releases/download/v2.0.0-108/NotchCanvas-2.0.0-108-universal.dmg" length="12597040" type="application/octet-stream" sparkle:edSignature="zkJyoK1ChuxB5p3xUHvgqRNzz3mJT99SaOUCrqzqhYAbjK1Ft9e8Z3r4TlzZGSKaq2XBP1Pw+ckC/zHSKjHADQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: xhjODw0aNLGutXSlA1aJG5HJV3WIbvmUVIslZ+qM8kWX0MkVHHJh0pSdh35zW93l6in3JQUa2deDbxLVZ3gqDg==
+length: 1711
+-->
