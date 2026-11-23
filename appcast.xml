@@ -4,26 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>NotchCanvas</title>
         <item>
-            <title>2.0.0</title>
-            <pubDate>Mon, 23 Nov 2026 00:31:09 +0530</pubDate>
-            <sparkle:version>108</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <title>2.0.1</title>
+            <pubDate>Mon, 23 Nov 2026 22:24:58 +0530</pubDate>
+            <sparkle:version>109</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Automatic updates are now available in the website version of NotchCanvas.
+            <description sparkle:format="plain-text"><![CDATA[NotchCanvas 2.0.1
 
-• Check for updates in Settings → General → Software Update.
-• Automatic checks run daily. You choose when to install and restart.
-• Update downloads and the update feed are cryptographically signed.
-• Includes the latest notch layout, Settings, Reminders/Music Player switching,
-  multi-display and About-screen fixes.
-
-If you installed an older DMG without an updater, replace it once with this
-version. Your existing preferences and reminders remain in place.
+Removed AirDrop and file tray, including drag targets and settings, to prevent stuck or misleading transfer notifications. Improved update-strip interaction and English defaults.
 ]]></description>
-            <enclosure url="https://github.com/Anubhab08/NotchCanvas-Updates/releases/download/v2.0.0-108/NotchCanvas-2.0.0-108-universal.dmg" length="12597040" type="application/octet-stream" sparkle:edSignature="zkJyoK1ChuxB5p3xUHvgqRNzz3mJT99SaOUCrqzqhYAbjK1Ft9e8Z3r4TlzZGSKaq2XBP1Pw+ckC/zHSKjHADQ=="></enclosure>
+            <enclosure url="https://github.com/Anubhab08/NotchCanvas-Updates/releases/download/v2.0.1-109/NotchCanvas-2.0.1-109-universal.dmg" length="12374629" type="application/octet-stream" sparkle:edSignature="8RbzQTFpclnnuCod+JJW3XL/jC/pDKCBkb949nDMHg6NuQZxMD8zty0vjg8Hd1YpuO/tj5+UEgCxHzH9oLUhAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: xhjODw0aNLGutXSlA1aJG5HJV3WIbvmUVIslZ+qM8kWX0MkVHHJh0pSdh35zW93l6in3JQUa2deDbxLVZ3gqDg==
-length: 1711
+edSignature: NdgWVT4sWyEKKklDeHOP2BaDAh+Gj9n+HVhtz/mxMK5Fi/FsiPBNFGj3hRyCJ0iYzhDLleZnqRr41kgRi9JvBA==
+length: 1358
 -->
