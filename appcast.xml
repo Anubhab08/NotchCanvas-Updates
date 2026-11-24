@@ -4,19 +4,29 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>NotchCanvas</title>
         <item>
-            <title>2.0.1</title>
-            <pubDate>Mon, 23 Nov 2026 22:24:58 +0530</pubDate>
-            <sparkle:version>109</sparkle:version>
-            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <title>2.0.2</title>
+            <pubDate>Tue, 24 Nov 2026 17:17:46 +0530</pubDate>
+            <sparkle:version>110</sparkle:version>
+            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[NotchCanvas 2.0.1
+            <description sparkle:format="plain-text"><![CDATA[NotchCanvas 2.0.2
 
-Removed AirDrop and file tray, including drag targets and settings, to prevent stuck or misleading transfer notifications. Improved update-strip interaction and English defaults.
+The lock-screen music player now uses clear Liquid Glass instead of frosted widget glass, without the notch's black fade.
+
+Restores extension-free system Now Playing integration in the website edition on macOS 15.4 and later, including compatible browser media. The lock-screen player works independently of the Reminders or Player tab selection.
+
+Adds reminder status labels that sync through Reminders Notes while preserving your existing notes. Hides the compact content cue on secondary displays without changing the primary notch or expanded views.
+
+Shows recent Codex chats with their chat names, improves active-session detection for long conversations, and refines agent usage and reminder text sizing.
+
+Introduces a one-time agent approval setup prompt after welcome or update. Agent approvals remain opt-in and require a supported local hook; installing the app alone does not connect arbitrary desktop chats.
+
+Liquid Glass requires macOS 26 or later. Earlier systems use a native material fallback. Agent approval actions require a supported, explicitly connected provider hook.
 ]]></description>
-            <enclosure url="https://github.com/Anubhab08/NotchCanvas-Updates/releases/download/v2.0.1-109/NotchCanvas-2.0.1-109-universal.dmg" length="12374629" type="application/octet-stream" sparkle:edSignature="8RbzQTFpclnnuCod+JJW3XL/jC/pDKCBkb949nDMHg6NuQZxMD8zty0vjg8Hd1YpuO/tj5+UEgCxHzH9oLUhAg=="></enclosure>
+            <enclosure url="https://github.com/Anubhab08/NotchCanvas-Updates/releases/download/v2.0.2-110/NotchCanvas-2.0.2-110-universal.dmg" length="12525448" type="application/octet-stream" sparkle:edSignature="iCBxxmQ+oV96ysuONJ66Kwcaa5osk+tjtqeVOxDOxHuBEaa413Be4Nx2fOkWlLlhioI9jX2CWra1++wg56qdDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: NdgWVT4sWyEKKklDeHOP2BaDAh+Gj9n+HVhtz/mxMK5Fi/FsiPBNFGj3hRyCJ0iYzhDLleZnqRr41kgRi9JvBA==
-length: 1358
+edSignature: Nckdqny28TSPkTqByINBGQYn5nIseS1XKajAgfBjrDhhI7tJlM69h3njpmz7pu0Q0SO2w9peqgQMtNrt1AOXAQ==
+length: 2269
 -->
